@@ -34,4 +34,5 @@ List of tasks added into gulpfile.json are
 - jshint-stylish : https://www.npmjs.com/package/jshint-stylish
 - gulp-jsbeautifier : https://www.npmjs.com/package/gulp-jsbeautifier
 - gulp-git : https://www.npmjs.com/package/gulp-git
-- jshintOnce this is done, you are ready to start automating frontend. In "node terminal", go to your project directory and type command "Gulp".
+
+Once this is done, you are ready to start automating frontend. In "node terminal", go to your project directory and type command "Gulp".
