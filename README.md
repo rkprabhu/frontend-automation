@@ -3,7 +3,7 @@ Automate frontend using task runner gulp
 
 Prerequisites:
 - Knowledge of Node.js, Gulp Js
-- Pre Installed Node and Gulp globally on local syatem
+- Pre Installed Node and Gulp globally on local system
 
 Installation Steps
 - Download repositiory to your system. Extract it.
